@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MESSAGE</string>
+    <string name="accessibility_service_label">hello</string>
+    <string name="accessibility_service_description">okk</string>
+</resources>
